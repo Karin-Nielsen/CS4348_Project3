@@ -12,14 +12,12 @@
 
 **Developed using:**
 
-Java version: 
+*Java version:*
 
 11.0.8
 	
 	
-Java IDE: 
-
-Eclipse IDE for Java Developers (includes Incubating components)
+Java IDE: Eclipse IDE for Java Developers (includes Incubating components)
 
 Version: 2020-06 (4.16.0)
 
