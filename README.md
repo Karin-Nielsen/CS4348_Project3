@@ -25,44 +25,6 @@
   * Your program should be able to reproduce the sample shown in the book as well as any similar set of jobs.
 
 
-### Sample Output
-
-  * Below is sample text-based output for FCFS:
-
-FCFS
-
-A  XXX
-B           XXXXXX
-C                             XXXX  
-D                                        XXXXX
-E                                                       XX
-
-
-FCFS (this is another way you may print the output instead of the one above)
-
-A B C D E
-X
-X
-X 
-   X
-   X
-   X
-   X
-   X
-   X
-      X
-      X
-      X
-      X
-         X
-         X
-         X
-         X
-         X
-            X
-            X
-
-
 ## Instructions to Compile/Run
 
   * Java Files: Scheduler.java
